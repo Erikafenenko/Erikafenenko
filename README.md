@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Erikafenenko
+- 👀 I’m interested in SQL 
+- 🌱 I’m currently learning Python
+- ⚡ Fun fact: I am a model
